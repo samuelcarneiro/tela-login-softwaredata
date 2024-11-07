@@ -1,5 +1,5 @@
 <h1 align="center"> Tela de Login </h1>
-<p align="center">Projeto desenvolvido como forma de prática de desenvolvimento front-end. Tela de login, fictícia, de um sistema web.</p>
+<p align="center">Projeto desenvolvido como forma de prática em desenvolvimento front-end. Tela de login, fictícia, de um sistema web.</p>
 <br>
 <p align="center">
   <img alt="screenshots da pagina inicial do projeto" src=".github/tela-login-softwaredata.png" width="100%">
