@@ -1,10 +1,8 @@
 <h1 align="center"> Tela de Login </h1>
-Projeto desenvolvido como forma de prática de desenvolvimento front-end. Tela de login, fictícia, de um sistema web.
-
+<p align="center">Projeto desenvolvido como forma de prática de desenvolvimento front-end. Tela de login, fictícia, de um sistema web.</p>
 <br>
-
 <p align="center">
-  <img alt="screenshots da pagina inicial do projeto" src=".github/preview-meus-links-cover.png" width="100%">
+  <img alt="screenshots da pagina inicial do projeto" src=".github/tela-login-softwaredata.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
